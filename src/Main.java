@@ -196,5 +196,5 @@ public class Main {
             this.funct = funct;
             this.type = type;
         }
-    }
+    } // End helper class
 } // End class
