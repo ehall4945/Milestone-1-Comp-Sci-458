@@ -77,7 +77,7 @@ public class Main {
         String[] parts = instructionLine.split("\\s+", 2);
         // Then get the instruction's name
         String instructName = parts[0];
-        // Get the operands if they are present
+        // Get the operands (if they are present)
         String operands = parts.length > 1 ? parts[1] : "";
 
         // Gets the instruction format from instructionMap,
