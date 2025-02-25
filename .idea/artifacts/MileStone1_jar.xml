@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MileStone1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MileStone1_jar</output-path>
+    <root id="archive" name="MileStone1.jar">
+      <element id="module-output" name="MileStone1" />
+    </root>
+  </artifact>
+</component>
